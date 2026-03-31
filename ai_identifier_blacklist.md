@@ -331,4 +331,51 @@ Contrarian opening → vague personal story framing → numbered list of insight
 
 ---
 
+## March 2026 Additions
+
+**Newly flagged vocabulary** *(confirmed spikes in 2026 AI detection research)*
+- seamless *(especially "seamless experience," "seamless integration")*
+- cutting-edge
+- meticulous / meticulously
+- vibrant *(especially "vibrant community," "vibrant ecosystem")*
+- game-changer / game-changing
+- revolutionize / revolutionizes
+- spearhead *(as a verb — "we will spearhead...")*
+- unleash *(especially "unleash the power of")*
+- supercharge
+- actionable *(especially "actionable insights," "actionable steps")*
+- results-driven
+- dynamic *(overused as a generic positive modifier)*
+
+**Newly flagged phrases**
+- "at the forefront of"
+- "pave the way for"
+- "bridging the gap between"
+- "a gateway to"
+- "push the boundaries of"
+- "revolutionize the way we"
+- "capitalize on the opportunity"
+- "spearhead the initiative"
+- "deliver actionable insights"
+
+**Throat-Clearing Openers** *(new sub-category — filler phrases that delay the actual point)*
+- "Here's the thing,"
+- "The truth is,"
+- "Let me be clear,"
+- "Here's what you need to know:"
+- "Make no mistake:"
+
+**False-Contrast Sentence Construction**
+- "Not X. But Y." *(used as back-to-back sentences for artificial emphasis)*
+- "Not by doing X, but by doing Y."
+- "Not just X, but Y." *(as a standalone sentence opener, distinct from the existing "it's not just about X" phrase pattern)*
+
+**LinkedIn-Specific Additions**
+- "Agree or disagree?" *(engagement-bait closer — distinct from "Thoughts?" already listed)*
+- "Save this post." *(CTA closer)*
+- "I'll go first." *(false-vulnerability opener)*
+- "No one is talking about this." *(variant of "Nobody talks about this, but..." — shorter form now dominant)*
+
+---
+
 *Last updated: March 31, 2026. Updated monthly on the 1st by scheduled research agent.*
