@@ -1,0 +1,81 @@
+name: AI Identifier Blacklist Update
+
+on:
+  schedule:
+    - cron: '0 12 1 * *'
+  workflow_dispatch:
+
+jobs:
+  update-blacklist:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Research and update AI identifier blacklist
+        run: |
+          claude --dangerously-skip-permissions -p "
+          You are maintaining the HURT! Digital Orthopedics AI identifier blacklist.
+          This is a curated list of words, phrases, structural patterns, and tonal markers
+          that signal AI-written content — the AI;DR phenomenon where readers recognize
+          and dismiss AI-generated posts. HURT! is a healthcare marketing brand that must
+          never be flagged as AI-generated.
+
+          Today's date: $(date +'%B %d, %Y')
+          This month: $(date +'%B %Y')
+
+          ## Step 1: Research
+          Search the web for newly documented AI writing tells from the past month.
+          Use these searches:
+          - site:reddit.com \"AI writing\" tells OR phrases $(date +'%Y')
+          - \"AI;DR\" new phrases identified
+          - \"AI slop\" new identifiers $(date +'%Y')
+          - ChatGPT overused words $(date +'%B %Y')
+          - LinkedIn AI writing detection new patterns
+          - site:threads.net AI writing tells
+          - AI generated content phrases to avoid $(date +'%Y')
+
+          ## Step 2: Read the current blacklist
+          Read the file ai_identifier_blacklist.md in the current directory.
+
+          ## Step 3: Identify new entries
+          Compare your research findings against the existing blacklist.
+          Find entries that are NOT already present in any form.
+
+          ## Step 4: Append new section
+          At the END of ai_identifier_blacklist.md, before the final 'Last updated:' line,
+          append a new section using exactly this format:
+
+          ## $(date +'%B %Y') Additions
+          - [new entry]
+          - [new entry]
+
+          If no genuinely new tells were found, append:
+          ## $(date +'%B %Y') Additions
+          No new identifiers documented this month.
+
+          ## Step 5: Update the last updated line
+          Change the 'Last updated:' line at the bottom to: Last updated: $(date +'%B %d, %Y')
+
+          ## Rules
+          - Do NOT modify any existing sections or entries
+          - Do NOT duplicate entries already in the file
+          - Do NOT remove any existing entries
+          - Only append — never rewrite
+          "
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "HURT Claude Scheduler"
+          git config user.email "claude-scheduler@hurt.ai"
+          git add ai_identifier_blacklist.md
+          git diff --staged --quiet || git commit -m "Monthly AI identifier update: $(date +'%B %Y')"
+          git push
