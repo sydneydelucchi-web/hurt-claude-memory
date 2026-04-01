@@ -378,4 +378,35 @@ Contrarian opening → vague personal story framing → numbered list of insight
 
 ---
 
-*Last updated: March 31, 2026. Updated monthly on the 1st by scheduled research agent.*
+## April 2026 Additions
+
+**Newly flagged vocabulary** *(confirmed across multiple detection sources, not previously listed)*
+- crucial *(especially "plays a crucial role in," "crucial to success")*
+- vital *(especially "vital role," "vital importance")*
+- dive / dive into *(overused companion to "delve" — both now flagged equally)*
+- notably *(as a sentence or clause opener — "Notably, this approach...")*
+- daunting *(especially "daunting task," "daunting challenge")*
+- optimize / optimise *(AI reaches for this as a default improvement verb)*
+- in essence *(hedge-and-summarize filler before restating what was just said)*
+- a myriad of *(inflated substitute for "many")*
+
+**Newly flagged phrases**
+- "plays a crucial role in" *(one of the most statistically over-represented phrases in AI output)*
+- "it's no secret that" *(throat-clearing authority claim with no grounding)*
+- "here's the kicker" *(faux-conversational intimacy tell — AI mimicking casual voice)*
+- "aims to" *(as sentence subject — "This piece aims to explore...", "Our approach aims to...")*
+- "solid foundation" *(vague competence claim — "built on a solid foundation of...")*
+
+**Rhetorical Micro-Q&A Structure** *(new sub-category — structural tell now spiking)*
+- The pattern: short rhetorical question immediately answered in the next sentence
+- Examples: "The result? Better outcomes." / "The challenge? Staying consistent." / "The best part? It works."
+- This is AI mimicking punchy human voice — but the pattern repeats so uniformly it becomes a tell
+
+**AI Bleed-Through — Extended** *(additions to the existing AI Bleed-Through Closers category)*
+- "As of my last knowledge update..." *(model self-disclosure leaking into published copy)*
+- "As an AI language model..." / "I'm just an AI..." *(same — remove before any delivery)*
+- "I'd be happy to help with that." *(chat-mode response leaking into drafted content)*
+
+---
+
+*Last updated: April 01, 2026. Updated monthly on the 1st by scheduled research agent.*
