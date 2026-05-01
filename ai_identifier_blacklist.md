@@ -409,4 +409,25 @@ Contrarian opening → vague personal story framing → numbered list of insight
 
 ---
 
-*Last updated: April 01, 2026. Updated monthly on the 1st by scheduled research agent.*
+## May 2026 Additions
+
+**Newly flagged vocabulary** *(confirmed spikes not previously listed)*
+- boast / boasts *(as a verb — "the platform boasts X," "boasting impressive results")*
+- showcasing *(present participle filler — "showcasing our commitment to...")*
+- primarily *(flat filler adverb; statistically over-represented in AI output)*
+
+**Newly flagged phrases**
+- "in today's digital age" *(discrete variant of the existing "in today's digital landscape" — this specific form now separately spiking)*
+- "despite facing" *(statistical outlier phrase in AI text; e.g., "despite facing challenges, the team...")*
+- "expressed excitement" / "expressed enthusiasm" *(formulaic attribution phrasing — "the team expressed excitement about...")*
+- "unlock the potential of" *(general-copy form; the Instagram-specific "Unlock your [X]" is already listed but this broader pattern now flagged across all formats)*
+- "drive efficiency" *(vague AI-default corporate improvement claim)*
+- "track record" *(inflated competence cliché — "proven track record of...")*
+
+**Structural Tell — Circular Restatement** *(new sub-category)*
+- AI frequently restates the same core point 2–3 times across a short piece in slightly different language, producing circular reasoning that trained readers identify as filler
+- Distinct from the existing "Conclusion or summary that mirrors the introduction" — circular restatement occurs mid-piece and does not require a formal summary structure
+
+---
+
+*Last updated: May 01, 2026. Updated monthly on the 1st by scheduled research agent.*
