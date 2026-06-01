@@ -430,4 +430,32 @@ Contrarian opening → vague personal story framing → numbered list of insight
 
 ---
 
-*Last updated: May 01, 2026. Updated monthly on the 1st by scheduled research agent.*
+## June 2026 Additions
+
+**Newly flagged vocabulary** *(confirmed across 2026 detection sources, not previously listed in any form)*
+- ignite *(especially "ignite your [X]," "ignite change")*
+- empower *(generic uplift verb — "empower teams," "empowering you to...")*
+- uncover *(default discovery verb — "uncover insights," "uncover hidden...")*
+- plethora *(inflated substitute for "many" — companion to the already-listed "a myriad of")*
+- unwavering *(especially "unwavering commitment," "unwavering dedication")*
+- future-ready *(adjective now spiking — "future-ready solutions," "future-ready teams")*
+- symphony *(abstract-noun reach — "a symphony of," metaphorical use)*
+
+**Newly flagged phrases / openers**
+- "Picture this..." *(false-empathy / imagination opener — fakes lived experience with a generic scenario)*
+- "Imagine a world where..." *(same family — invented vague scenario standing in for real specificity)*
+- "As a business owner, you know..." *(false-empathy opener that presumes the reader's experience, then states a generic problem; distinct from the existing "As a [job title], I've learned that..." which is about the writer)*
+- "That's only half the story" *(faux-suspense hook transition mid-piece)*
+
+**Structural Tell — Period-for-Em-Dash Substitution** *(new sub-category — the documented 2026 successor to em-dash overuse)*
+- As writers strip em dashes to dodge detection, AI output now defaults to chopping them into staccato one-clause sentences ("It works. Every time. No exceptions.")
+- A run of very short single-clause sentences where a normal sentence would flow now reads as the replacement tell, not as natural rhythm
+- Distinct from the existing Em Dash Overuse entry — this is the over-correction, not the original pattern
+
+**Structural Tell — Fragmented Rule of Three** *(distinct from the existing "Rule of Three" entry)*
+- The sentence-fragment headline form: "No X. No Y. Just Z." (e.g., "No hardware. No fees. Just growth.")
+- The existing Rule-of-Three entry covers in-sentence triads; this is the clipped three-fragment header/tagline construction now repeated uniformly across AI copy
+
+---
+
+*Last updated: June 01, 2026. Updated monthly on the 1st by scheduled research agent.*
