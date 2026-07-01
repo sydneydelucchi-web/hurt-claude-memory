@@ -458,4 +458,29 @@ Contrarian opening → vague personal story framing → numbered list of insight
 
 ---
 
-*Last updated: June 01, 2026. Updated monthly on the 1st by scheduled research agent.*
+## July 2026 Additions
+
+**Newly flagged vocabulary** *(confirmed across 2026 detection sources; not previously listed in any form)*
+- quietly *(the 2026 "add-weight" adverb — "quietly building," "quietly dominating," "quietly transforming," "quiet confidence," "the quiet truth"; AI's crutch for lending drama to a mediocre observation)*
+- earn *(newly attached to abstract nouns — "earn the right to," "earn trust," "earn attention," "earn your audience"; the verb does rhetorical work the rest of the sentence should)*
+- unravel *(default AI companion to "uncover" and "delve" — "unravel the mystery," "unravel the complexities")*
+- labyrinth *(abstract-metaphor reach for "complex situation" — companion to the already-listed "tapestry")*
+- bastion *("a bastion of," metaphorical use)*
+- zeitgeist *(inflated register substitute for "the moment" or "the mood")*
+- captivating
+- riveting
+- compelling *(especially "a compelling case," "compelling reasons")*
+- remarkable *(flat AI intensifier applied indiscriminately)*
+- unprecedented *(inflated scale claim — "unprecedented growth," "unprecedented times")*
+
+**Newly flagged phrases / slang tells**
+- "built different" *(borrowed-slang tell — AI mimicking casual voice, now uniform)*
+
+**LinkedIn-Specific Additions**
+- "Here's how" / "Here's what:" *(bare promise-opener handoff — LinkedIn's single most common AI opener; distinct from the fuller "Here's what nobody tells you about X:" and "Here's what you need to know:" already listed)*
+- "Plot twist:" *(reveal-bridge mini-cliffhanger mid-piece; distinct from the April Rhetorical Micro-Q&A "The result?" pattern)*
+- "What about you?" *(short-form engagement-bait closer — distinct from the listed "What do you think?" and "What's been your experience with this?")*
+
+---
+
+*Last updated: July 01, 2026. Updated monthly on the 1st by scheduled research agent.*
