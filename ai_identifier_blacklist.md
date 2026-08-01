@@ -483,4 +483,37 @@ Contrarian opening → vague personal story framing → numbered list of insight
 
 ---
 
-*Last updated: July 01, 2026. Updated monthly on the 1st by scheduled research agent.*
+## August 2026 Additions
+- effortlessly / effortless *(landing-page default; companion to the already-listed "seamless" — both now flagged equally)*
+- roadmap *(spatial-metaphor reach alongside the already-listed "landscape" and "realm")*
+- "widely regarded as" *(weasel attribution — distinct from the listed "experts say" / "studies show" / "many believe")*
+- "industry reports suggest" *(same family — sourceless authority claim dressed as research)*
+- "the data speaks for itself" *(authority claim that substitutes for citing the data)*
+- "[X] is defined as..." *(dictionary-opener tell — AI starting a piece by defining its own subject)*
+- "serves as a" *(fake-strong verb — "serves as a hub / resource / reminder"; use "is" or "has")*
+- "Here's what I mean," *(throat-clearing opener — distinct from the listed "Here's the thing," and "Let me be clear,")*
+- "Think about it:" *(rhetorical setup bridge — distinct from the listed "What if I told you...")*
+- "What most people get wrong" *(faux-insight setup — presumes a majority error with no evidence)*
+- "This is the part most people skip" *(same family — manufactured insider framing)*
+- "The question isn't X, it's Y." *(binary-contrast construction — distinct from the listed "Not X. But Y." and "it's not just about X, it's about Y")*
+- "That's it. That's the whole thing." *(dramatic-fragmentation punchline now uniform across AI copy)*
+- "the key is" *(generic-advice frame; documented reach penalty on LinkedIn as of 2026)*
+- "Get started today." *(CTA cliché — flat AI-default conversion line)*
+- "Welcome to our platform." *(generic onboarding opener with no brand voice)*
+- "AI-powered" *(when the product or service is not actually about AI — 2026 filler modifier)*
+- "Remember, self-care isn't selfish." *(wellness-slop closer — high risk for healthcare copy)*
+- "Remember to be kind to yourself." *(same family — generic care-adjacent platitude)*
+- "You are exactly where you need to be." *(same family — hollow reassurance with no clinical or personal grounding)*
+- "The journey of a thousand miles begins with a single step." *(borrowed-aphorism closer)*
+- "Ultimately," *(summary-closer connector — distinct from the listed "In conclusion," and "To summarize,")*
+- "Overall," *(same — flat recap starter)*
+- Fake-Profound Kicker Closers *(new sub-category — a final standalone aphorism that reframes the piece as a cute metaphor instead of ending on substance; e.g., "The future isn't coming. It's already here." / "The best time to start was yesterday.")*
+- Colon Reveals *(new structural sub-category — a setup clause that dumps its payoff after a colon, repeated as a rhythm device: "The detail that makes it work: the second review pass." Distinct from the April Rhetorical Micro-Q&A entry, which uses a question rather than a noun phrase.)*
+- Synonym Cycling *(new structural sub-category — rotating through synonyms for the same thing across a short piece rather than repeating the correct word; AI does this to avoid apparent repetition and it reads as thesaurus churn. For HURT!: pick one term for a procedure, clinic, or patient and keep it.)*
+- "Comment YES if you agree." *(LinkedIn engagement-bait CTA — documented reach penalty; distinct from the listed "Agree or disagree?")*
+- "Like to see the PDF." / "Comment [word] and I'll send it." *(LinkedIn gated-asset engagement bait)*
+- "Stop X. Start Y." *(LinkedIn generic-advice frame — the clipped twin of the listed "Stop doing X. Do this instead.")*
+
+---
+
+*Last updated: August 01, 2026. Updated monthly on the 1st by scheduled research agent.*
