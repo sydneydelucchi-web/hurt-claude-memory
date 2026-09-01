@@ -516,4 +516,53 @@ Contrarian opening → vague personal story framing → numbered list of insight
 
 ---
 
-*Last updated: August 01, 2026. Updated monthly on the 1st by scheduled research agent.*
+## September 2026 Additions
+- genuinely / truly / actually *(the 2026 credibility-boosting adverbs — "genuinely useful," "truly transformative," "actually works"; AI adds them to claims that would land harder without them. Companion to the already-listed "quietly" and "primarily")*
+- unveil *(default reveal verb — "unveil our new," "unveiling the results"; companion to the already-listed "uncover" and "unravel")*
+- craft / crafted *(as a verb for ordinary making — "carefully crafted," "we craft experiences")*
+- tailor / tailored *(especially "tailored to your needs," "a tailored approach")*
+- hone *(especially "hone your skills," "honed over years")*
+- turbocharge *(distinct from the already-listed "supercharge" — this specific form now separately spiking)*
+- sophisticated *(inflated competence modifier applied to ordinary things)*
+- invaluable *(flat AI intensifier — "an invaluable resource," "invaluable insights")*
+- noteworthy *(clause-level filler adjective)*
+- world-class / best-in-class *(unearned superiority claims — high risk for clinic and provider copy)*
+- future-proof *(distinct from the already-listed "future-ready" — both forms now flagged equally)*
+- scalable *(corporate-jargon default; flagged when applied to care, service, or patient experience)*
+- mosaic / fabric *(metaphorical use — "a mosaic of," "the fabric of"; companions to the already-listed "tapestry," "labyrinth," and "symphony")*
+- "Crucially," *(as a clause or sentence opener — distinct from the already-listed adjective "crucial" and the opener "Notably,")*
+- "deep dive" *(as a noun — "a deep dive into"; distinct from the already-listed verb forms "delve" and "dive into")*
+- "at the heart of" *(distinct from the already-listed "at the forefront of")*
+- "at scale" *(corporate-jargon qualifier — "care at scale," "growth at scale")*
+- "end-to-end" *(especially "end-to-end solution," "end-to-end experience")*
+- "best practices" *(vague authority substitute for naming the actual practice)*
+- "drive innovation" *(distinct from the already-listed "drive efficiency" — same vague-improvement family)*
+- "let that sink in" *(emotional-manipulation beat placed after a statistic or claim)*
+- "[X] is the new [Y]" *(borrowed-formula construction — "recovery is the new prevention")*
+- "[X] is more than just [Y]" *(declarative form — distinct from the already-listed "it's not just about X, it's about Y" and "Not just X, but Y")*
+- "Keep in mind that," *(warm-up hedge before the actual point — distinct from the listed "It's important to note that...")*
+- "While it is true that," *(concessive throat-clearing opener)*
+- "The real problem is..." *(faux-diagnosis pivot; documented reach penalty on LinkedIn as of 2026)*
+- "Why does this matter?" *(rhetorical bridge mid-piece — distinct from the listed "Think about it:" and "That's only half the story")*
+- "Honestly?" *(one-word confession opener that precedes nothing confessional — distinct from the listed "Let's be honest.")*
+- "I'm going to state this as clearly as possible," *(over-promised setup phrase — announces significance the following sentence does not deliver; distinct from the listed "Let me be clear,")*
+- "Are you ready to go deeper?" *(coaching-question interruption — AI's unsolicited invitation to continue; also "Ready to take the next step?")*
+- Therapist-Mode Validation *(new sub-category — unsolicited reassurance inserted where the reader asked for none: "You're not imagining it." / "You're not alone in this." / "You're not broken." Documented as one of 2026's fastest-spreading tells. Highest-risk category for HURT! — this register reads as AI precisely where patient-facing copy most needs to sound human. Related to the already-listed wellness-slop closers.)*
+- LLM-Safe Truths *(new sub-category — statements that are unarguably true and teach nothing: "Consistency is important." / "Recovery takes time." / "Every patient is different." AI reaches for these to fill space without risk. If a sentence cannot be disagreed with, cut it.)*
+- Explicit Moral Statement *(new structural sub-category — spelling out the lesson of a story instead of letting the story carry it; documented at 77% frequency in AI narrative versus 52% in human. Distinct from the already-listed "The takeaway here is simple:" closer, which is the phrase rather than the habit.)*
+- Tidy Resolution *(new structural sub-category — every thread closed, every question answered, nothing left unresolved at the end. Human writing leaves loose ends; AI does not.)*
+- Body-Cliché Emotion *(new structural sub-category — performing feeling through stock physical description: "her throat tightened," "his heart raced," "a knot in my stomach." Documented at 81% in AI narrative versus 38% in human. Critical for HURT! patient stories — replace with what the person actually did, said, or decided.)*
+- Reader Never Addressed *(new tonal sub-category — AI addresses the reader directly in roughly 7% of passages versus 28% for human writers. Copy that describes an audience from a distance instead of speaking to it reads as machine-produced.)*
+- Repetitive "This means" Transitions *(new structural sub-category — chaining paragraphs with "This means..." / "What this means is..." as the default connective tissue)*
+- Absence of False Starts *(new structural sub-category — no tangents, no self-corrections, no reconsidering mid-paragraph. Distinct from the existing Absence of Texture entry, which covers missing anecdotes and specificity rather than missing hesitation.)*
+- Rhetorical Question Clusters *(new structural sub-category — three questions stacked as a transition rather than asked in earnest: "So what changed? Why now? And what does it mean for you?" Distinct from the existing single Rhetorical Question Openers.)*
+- False-Contrast Construction — Extended *(additions to the March 2026 False-Contrast entry, now separately documented forms)*
+  - "That's not X, that's Y." *(e.g., "That's not recovery. That's waiting.")*
+  - "Not because X. But because Y." *(e.g., "Not because it's easy. But because it works.")*
+- Near-Miss Metaphor *(new tonal sub-category — a comparison that sounds clever but does not actually map to the subject; AI produces metaphors that are structurally correct and logically mismatched)*
+- Teleporting Argument *(new structural sub-category — a conclusion arrives without the connecting reasoning; each sentence is defensible but the link between them was never written)*
+- Register Mismatch *(new tonal sub-category — technically correct word choices at the wrong formality level for the context, e.g., clinical vocabulary in a caption or casual slang in a provider bio)*
+
+---
+
+*Last updated: September 01, 2026. Updated monthly on the 1st by scheduled research agent.*
