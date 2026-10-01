@@ -565,4 +565,29 @@ Contrarian opening → vague personal story framing → numbered list of insight
 
 ---
 
-*Last updated: September 01, 2026. Updated monthly on the 1st by scheduled research agent.*
+## October 2026 Additions
+- stellar / exceptional *(flat AI-default praise adjectives — "stellar results," "exceptional care"; companions to the already-listed "remarkable" and "invaluable")*
+- powerful *(generic strength modifier — "a powerful tool," "powerful results")*
+- revolutionary *(adjective form — distinct from the already-listed verb "revolutionize")*
+- "Interestingly," / "Importantly," *(as clause or sentence openers — distinct from the already-listed "Notably," and "Crucially,")*
+- "It goes without saying" *(filler that then says it anyway)*
+- "When it comes to" *(throat-clearing topic frame — "When it comes to recovery, ...")*
+- "Great question!" *(chat-mode bleed-through — distinct from the listed affirmation starters "Absolutely," / "Certainly,")*
+- "Let's break this down." / "Let's unpack this." / "Let's explore this further." *(tutorial-voice transitions)*
+- "Think of it as..." / "Think of it like..." *(stock-analogy setup — distinct from the listed "Think about it:" bridge)*
+- "Here's where it gets interesting." *(faux-suspense transition — distinct from the listed "Here's the kicker" and "That's only half the story")*
+- "The reality is..." / "The reality is simpler than you think." *(truth-reveal frame — distinct from the listed "The truth is,")*
+- "And yes, ..." *(false-vulnerability aside — "And yes, I'm biased"; distinct from the listed "I'll go first.")*
+- "P.S." closer on LinkedIn posts *(documented 2026 LinkedIn AI pattern — "P.S. Drop your own version in the comments")*
+- False Ranges *(new structural sub-category — "From X to Y to Z" spans that sound comprehensive but name no real continuum: "From diagnosis to recovery to lifelong mobility." Distinct from the existing Rule of Three entry)*
+- Anaphora Abuse *(new structural sub-category — consecutive sentences starting with the same words for artificial rhythm: "They assume... They assume... They assume...")*
+- Bold-First Bullets *(new formatting sub-category — every bullet opening with a bolded keyword and colon: "**Mobility**: ..." Distinct from the existing bolding entries, which cover mid-sentence and glossary-style bolding)*
+- Arrow Notation in Prose *(new formatting sub-category — "→" used as a connector in body copy: "Better care → faster recovery → happier patients")*
+- Invented Concept Labels *(new tonal sub-category — coining a catchy named phenomenon with no source: "the recovery paradox," "the motivation trap")*
+- Grandiose Stakes Inflation *(new tonal sub-category — "This will fundamentally reshape how we think about..." / "will define the next era of..." Inflated significance for ordinary news)*
+- Historical Analogy Stacking *(new structural sub-category — piling up company or historical examples in a row: "Apple didn't build X. Netflix didn't build Y...")*
+- Listicle in a Trench Coat *(new structural sub-category — prose paragraphs that are really a numbered list: "The first takeaway is... The second takeaway is... The third takeaway is...")*
+
+---
+
+*Last updated: October 01, 2026. Updated monthly on the 1st by scheduled research agent.*
