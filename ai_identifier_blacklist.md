@@ -588,6 +588,15 @@ Contrarian opening → vague personal story framing → numbered list of insight
 - Historical Analogy Stacking *(new structural sub-category — piling up company or historical examples in a row: "Apple didn't build X. Netflix didn't build Y...")*
 - Listicle in a Trench Coat *(new structural sub-category — prose paragraphs that are really a numbered list: "The first takeaway is... The second takeaway is... The third takeaway is...")*
 
+
 ---
 
-*Last updated: October 01, 2026. Updated monthly on the 1st by scheduled research agent.*
+## November 2026 Additions
+- "This matters." *(standalone significance assertion — Graphite's study of AI-text tells found it about 116x more frequent in AI output than in human samples; distinct from the listed rhetorical bridge "Why does this matter?")*
+- dependable *(AI-default reliability adjective — "dependable care," "dependable results"; flagged in the same Graphite study as a model-specific tell)*
+- "does not establish" *(hedged evidentiary phrasing — "this study does not establish..."; flagged in the same Graphite study as a model-specific tell. High risk in clinical/evidence copy)*
+- "Let's narrow this down." *(tutorial-voice transition — distinct from the October-listed "Let's break this down." / "Let's unpack this.")*
+
+---
+
+*Last updated: November 01, 2026. Updated monthly on the 1st by scheduled research agent.*
